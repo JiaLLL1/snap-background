@@ -1,0 +1,7 @@
+name = "snap-background"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = ".nextstandalone"
+
+[vars]
+# Set this in Cloudflare Pages dashboard or via CLI
+# REMOVE_BG_API_KEY = "your-api-key-here"

@@ -1,0 +1,26 @@
+{
+  "name": "snap-background",
+  "version": "1.0.0",
+  "description": "Image background remover - MVP",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "deploy": "wrangler pages deploy",
+    "deploy:worker": "wrangler deploy"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241127.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.6.0",
+    "wrangler": "^3.0.0"
+  }
+}
