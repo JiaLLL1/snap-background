@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "SnapBackground - Remove Image Background",
-  description: "Quickly remove image backgrounds online. No signup needed.",
+  description: "Quickly remove image backgrounds online. No signup needed, completely free.",
 };
 
 export default function RootLayout({
