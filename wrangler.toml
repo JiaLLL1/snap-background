@@ -1,6 +1,6 @@
 name = "snap-background"
 compatibility_date = "2024-01-01"
-pages_build_output_dir = ".nextstandalone"
+pages_build_output_dir = "out"
 
 [vars]
 # Set this in Cloudflare Pages dashboard or via CLI
