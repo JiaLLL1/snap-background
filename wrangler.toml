@@ -1,7 +1,0 @@
-name = "snap-background"
-compatibility_date = "2024-01-01"
-pages_build_output_dir = "out"
-build_command = "npm install -g npm@11.12.1 && npm install && next build"
-
-[vars]
-# REMOVE_BG_API_KEY = "your-api-key-here"
