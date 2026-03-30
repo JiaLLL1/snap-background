@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Image background remover - MVP",
   "private": true,
-  "engines": {
-    "npm": "11.12.1"
-  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
